@@ -19,7 +19,7 @@ body{
 }
 .purpose-maintext p{
     color: rgb(170, 255, 0);
-    font-weight: 50000px;
+    font-weight: bolder;
     
 }
 a{
@@ -29,5 +29,140 @@ a{
     border-radius: 5px;
     font-size: 20px;
     font-weight: lighter;
+}
+
+.donate-amount{
+    margin-top: 8%;
+  
+}
+.donate-amount h1, p{
+text-align: center;
+font-weight: bolder;
+}
+.donate-amount h1{
+    font-size: 30px;
+    color: rgb(85, 46, 122);
     
 }
+.donate-amount>p{
+    color: rgb(56, 82, 4);
+    
+  
+}
+.donate-input{
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}
+input{
+    width: 50%;
+    text-align: center;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.center{
+    text-align: center;
+}
+.confirm-amount{
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+.just-amount{
+    width: 6%;
+    height: 65px;
+    text-align: center;
+    border-radius: 3px;
+    margin-right: 30px;
+    background-color: rgb(235, 207, 207);
+    }
+    
+.just-amount p{
+padding-top: 1px;
+font-size: 20px;
+font-weight: bolder;
+}
+#highlight{
+    border: 1px solid yellowgreen;
+    background-color: rgba(170, 230, 58, 0.829);
+}
+
+
+.plan{
+    margin-top: 8%;
+}
+.plan h1{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    color: rgb(85, 46, 122);
+}
+.plan>p{
+    text-align: center;
+    color: rgb(56, 82, 4);
+font-weight: bolder;
+}
+.donate-plan{
+   display: flex;
+   justify-content: center;
+   margin-top: 5%;
+    margin-left: 7%;
+}
+.donate-plan p{
+    text-align: left;
+}
+
+.plan-unit{
+    margin-right: 50px;
+    
+    padding-top: 40px;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+#b-color-one{
+background-color: rgba(190, 238, 177, 0.623);
+}
+#b-color-two{
+background-color: rgba(190, 163, 163, 0.466);
+}
+#b-color-three{
+background-color: rgba(241, 149, 149, 0.39);
+}
+
+.connect-people{
+    display: flex;
+    margin-left: 1%;
+    }
+.ct-people{
+    margin-top: 8%;
+    margin-left: 6%;
+}
+
+.ct-people h1{
+    text-align: left;
+    font-size: 30px;
+    font-weight: bolder;
+    color: rgb(85, 46, 122);
+}
+.ct-people p{
+    text-align: left;
+    color: rgb(56, 82, 4);
+font-weight: bolder;
+}
+#control-img{
+    height: 115%;
+    width: 90%;
+}
+.ct-img{
+    margin-top: 6%;
+    margin-left: 6%;
+}
+
+
+
+
