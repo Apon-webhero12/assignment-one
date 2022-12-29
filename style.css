@@ -94,6 +94,7 @@ font-weight: bolder;
 
 .plan{
     margin-top: 8%;
+    
 }
 .plan h1{
     text-align: center;
@@ -137,6 +138,7 @@ background-color: rgba(241, 149, 149, 0.39);
 .connect-people{
     display: flex;
     margin-left: 1%;
+    
     }
 .ct-people{
     margin-top: 8%;
@@ -164,5 +166,15 @@ font-weight: bolder;
 }
 
 
-
+.footer-sec{
+    margin-top: 20%;
+    background-image: linear-gradient(rgb(49, 151, 134), rgb(162, 35, 173));
+    padding: 8px;
+}
+footer h1{
+    font-style: italic;
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+}
 
