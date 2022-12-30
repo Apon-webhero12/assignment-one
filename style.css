@@ -3,11 +3,12 @@ body{
     margin: 0;
 }
 .purpose-backimage{
-    background-image: url(images/donation7.jpg);
+    background-image: url(images/donation7.png);
     background-repeat: no-repeat;
     height: 620px;
-    color: black;
+    
 }
+
 .purpose-maintext{
     text-align: center;
     padding: 110px;
@@ -16,10 +17,11 @@ body{
     color: rgb(170, 255, 0);
     font-size: 50px;
     font-weight: 200px;
+    
 }
 .purpose-maintext p{
-    color: rgb(170, 255, 0);
-    font-weight: bolder;
+    color: rgb(10, 199, 10);
+    filter: brightness(150%);
     
 }
 a{
