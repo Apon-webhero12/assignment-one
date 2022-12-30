@@ -14,15 +14,15 @@ body{
     padding: 110px;
 }
 .purpose-maintext h1{
-    color: rgb(170, 255, 0);
+    color: rgb(115, 255, 0);
     font-size: 50px;
     font-weight: 200px;
-    
+    filter: brightness(150%);
 }
 .purpose-maintext p{
-    color: rgb(10, 199, 10);
-    filter: brightness(150%);
-    
+    color: rgb(91, 129, 14);
+    filter: brightness(500%);
+    font-size: 25px;
 }
 a{
     text-decoration: none;
@@ -56,7 +56,7 @@ font-weight: bolder;
     padding: 10px;
     text-align: center;
 }
-input{
+#input{
     width: 50%;
     text-align: center;
     border-top-style: hidden;
@@ -169,8 +169,8 @@ font-weight: bolder;
 
 
 .footer-sec{
-    margin-top: 20%;
-    background-image: linear-gradient(rgb(49, 151, 134), rgb(162, 35, 173));
+    margin-top: 12%;
+    background-image: linear-gradient(rgb(67, 180, 161), rgb(172, 61, 182));
     padding: 8px;
 }
 footer h1{
@@ -180,3 +180,34 @@ footer h1{
     text-align: center;
 }
 
+.Subscription{
+    margin-top: 12%;
+}
+.Subscription h1{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    color: rgb(85, 46, 122);
+}
+.Subscription p{
+    text-align: center;
+    color: rgb(56, 82, 4);
+font-weight: bolder;
+}
+#subs-input{
+text-align: center;
+margin: 8%;
+
+}
+.inpt{
+    padding: 10px;
+    border: hidden;
+}
+#mail{
+    background-color: rgb(196, 157, 157);
+    
+}
+#subs{
+    background-image: linear-gradient(rgb(185, 218, 2), rgb(71, 236, 5));
+    
+}
