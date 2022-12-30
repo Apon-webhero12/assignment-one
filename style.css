@@ -22,7 +22,7 @@ body{
 .purpose-maintext p{
     color: rgb(91, 129, 14);
     filter: brightness(500%);
-    font-size: 25px;
+    font-size: 28px;
 }
 a{
     text-decoration: none;
@@ -159,7 +159,7 @@ background-color: rgba(241, 149, 149, 0.39);
 font-weight: bolder;
 }
 #control-img{
-    height: 115%;
+    height: 110%;
     width: 90%;
 }
 .ct-img{
@@ -169,7 +169,7 @@ font-weight: bolder;
 
 
 .footer-sec{
-    margin-top: 12%;
+    margin-top: 8%;
     background-image: linear-gradient(rgb(67, 180, 161), rgb(172, 61, 182));
     padding: 8px;
 }
@@ -196,7 +196,7 @@ font-weight: bolder;
 }
 #subs-input{
 text-align: center;
-margin: 8%;
+margin: 5%;
 
 }
 .inpt{
